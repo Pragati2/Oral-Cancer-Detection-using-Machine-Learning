@@ -32,9 +32,9 @@ Oral cancer is a significant health concern, especially in developing regions. E
 
 ## Visualizations
 
-| Original Image | Augmented | Heatmap |
-|----------------|-----------|---------|
-| ![orig](images/original.jpg) | ![aug](images/augmented.jpg) | ![gradcam](images/gradcam.jpg) |
+| Original Image | Augmented |
+|----------------|-----------|
+| ![orig](images/original.jpg) | ![aug](images/augmented.jpg) |
 
 > Add Grad-CAM or saliency maps to explain the model’s decision-making.
 
