@@ -2,10 +2,10 @@
 
 A deep learning-based image classification model that detects oral cancer using X-ray images. Built using VGG-16 architecture and trained on a dataset of over 6,500 labeled images. Achieved 91% test accuracy, outperforming traditional ML baselines by 35%.
 
-## 🔍 Problem Statement
+## Problem Statement
 Oral cancer is a significant health concern, especially in developing regions. Early detection can drastically improve survival rates. This project leverages convolutional neural networks to automate the detection of cancerous tissues from medical images.
 
-## 📊 Dataset
+## Dataset
 - **Size:** ~6,500 X-ray images
 - **Classes:** Cancerous vs. Non-Cancerous
 - **Source:** [Add source or "Not publicly available due to privacy"]
