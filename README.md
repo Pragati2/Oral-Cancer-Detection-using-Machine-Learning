@@ -8,7 +8,7 @@ Oral cancer is a significant health concern, especially in developing regions. E
 ## Dataset
 - **Size:** ~6,500 X-ray images
 - **Classes:** Cancerous vs. Non-Cancerous
-- **Source:** [Add source or "Not publicly available due to privacy"]
+- **Source:** Not publicly available due to privacy
 
 > Note: The dataset was cleaned and preprocessed (resizing, normalization, augmentation) to improve model generalization.
 
